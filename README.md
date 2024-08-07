@@ -1,1 +1,1 @@
-# ninpost.github.com
+# ninpost.github.io
